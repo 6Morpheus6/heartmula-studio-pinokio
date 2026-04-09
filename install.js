@@ -5,7 +5,7 @@ module.exports = {
       when: "{{!exists('app')}}",
       params: {
         message: [
-          "git clone https://github.com/fspecii/HeartMuLa-Studio app"
+          "git clone https://github.com/6Morpheus6/HeartMuLa-Studio app"
         ]
       }
     },
